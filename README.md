@@ -16,3 +16,4 @@ Generates a threat feed IP list by querying AbuseIPDB. The output can then be co
    - $tempFolderPathSplitFile = "C:\Scripts\abuseipdb\" # Working directory for the blocklist files
 
 ## Running
+1. Execute RefreshAbuseIP.ps1
